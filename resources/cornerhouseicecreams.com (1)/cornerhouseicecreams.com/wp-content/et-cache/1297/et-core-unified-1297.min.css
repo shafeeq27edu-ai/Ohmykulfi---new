@@ -1,0 +1,28 @@
+.et_pb_accordion .et_pb_toggle_open .et_pb_toggle_title:before {
+    display: block !important
+}
+
+.et_pb_accordion .et_pb_toggle_open .et_pb_toggle_title:before {
+    color: #9E75B4 !important
+}
+
+.mobile_menu_bar:before {
+    content: "a";
+    font-size: 36px !important;
+    position: relative;
+    left: 0;
+    top: 0;
+    cursor: pointer
+}
+
+.mobile_nav.opened .mobile_menu_bar:before {
+    content: '\4d'
+}
+
+.et-l--post .et_builder_inner_content {
+    overflow-y: hidden
+}
+
+.dsm_advanced_tabs_0 .dsm-advanced-tabs-wrapper {
+    justify-content: center !important
+}

@@ -1,0 +1,16 @@
+# Dependencies / system folders
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Backup folder (not needed in repo)
+backup_ohmykulfi/
+
+# Analytics and tracking cached files (large, not needed)
+analytics.google.com/
+www.google-analytics.com/
+www.googletagmanager.com/
+www.clarity.ms/
+i.clarity.ms/
+scripts.clarity.ms/
+_DataURI/
